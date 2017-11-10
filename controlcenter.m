@@ -1,0 +1,22 @@
+%% Controlcenter
+call.contour = 0;           %% functional
+call.stiction = 0;          %% functional
+call.squeeze = 0;           %% not functional
+call.CFD = 0;               %% functional
+call.FEM = 0;               %% not functional
+call.fluidforce = 0;        %% not functional
+call.fluidforce_sphere = 0; %% not functional
+call.lifetime = 0;          %% functional
+call.dynamics = 0;          %% functional
+call.validation = 0;        %% functional
+call.validation_ASME17 = 0; %% functional
+call.experimental_plot = 0; %% functional
+call.Leakage_study = 0;     %% functional
+call.single_piston = 0;     %% functional
+call.transient_flow = 0;    %% functional
+call.open_transient_flow =0;%% functional
+call.CFD_results = 0;       %% functional
+call.fatigue = 0;           %% functional
+call.HALT = 0;              %% functional
+call.chamber_damping = 0;   %% functional
+call.neural_control = 1;    %% functional
